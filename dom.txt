@@ -57,3 +57,4 @@ whatsapp-cdn-shv-01-any2.fbcdn.net
 whatsapp-cdn-shv-01-arn2.fbcdn.net
 whatsapp-cdn-shv-01-bru2.fbcdn.net
 whatsapp-cdn-shv-01-hel3.fbcdn.net
+compute.amazonaws.com
